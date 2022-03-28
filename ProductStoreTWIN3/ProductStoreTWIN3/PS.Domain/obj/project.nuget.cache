@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtfTHCQz2bRfBE5tVW+F60LKlo7OxF+evAGWKkcPGQ3cT4lQPtT9crZRhQFe6KHGUyl9T5/StoX8Y368E7q6gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oumay\\Desktop\\S2\\.net\\.NETProject\\ProductStoreTWIN3\\ProductStoreTWIN3\\PS.Domain\\PS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oumay\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

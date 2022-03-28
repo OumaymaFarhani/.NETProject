@@ -1,0 +1,199 @@
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.exe
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.deps.json
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.json
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.runtimeconfig.dev.json
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.AssemblyReference.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfoInputs.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.AssemblyInfo.cs
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CoreCompileInputs.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.csproj.CopyComplete
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.GUI\obj\Debug\netcoreapp3.1\PS.GUI.genruntimeconfig.cache

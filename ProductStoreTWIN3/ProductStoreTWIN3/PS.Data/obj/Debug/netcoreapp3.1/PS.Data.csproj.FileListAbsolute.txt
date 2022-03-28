@@ -1,0 +1,32 @@
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache

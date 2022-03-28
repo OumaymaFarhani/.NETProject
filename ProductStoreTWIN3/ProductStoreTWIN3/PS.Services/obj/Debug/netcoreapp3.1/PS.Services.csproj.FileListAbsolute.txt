@@ -1,0 +1,69 @@
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.deps.json
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.AssemblyReference.cache
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfoInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfo.cs
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CoreCompileInputs.cache
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CopyComplete
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\my\source\repos\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.deps.json
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.AssemblyReference.cache
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfoInputs.cache
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfo.cs
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CopyComplete
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\Ilyes\Downloads\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.deps.json
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.AssemblyReference.cache
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfoInputs.cache
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfo.cs
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CoreCompileInputs.cache
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CopyComplete
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\oumay\Desktop\S2\.net\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.deps.json
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.AssemblyReference.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfoInputs.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfo.cs
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CoreCompileInputs.cache
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CopyComplete
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Hiba\Desktop\Hiba\esprit 4twin3\S2\DotNet\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.deps.json
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Services.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.AssemblyReference.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfoInputs.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.AssemblyInfo.cs
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CoreCompileInputs.cache
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.csproj.CopyComplete
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.dll
+C:\Users\oumay\Desktop\S2\.net\.NETProject\ProductStoreTWIN3\ProductStoreTWIN3\PS.Services\obj\Debug\netcoreapp3.1\PS.Services.pdb
